@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+
+}
+
+#table {
+    padding: 5% 3%;
+}
+
+.city-name {
+    margin-bottom: 9%;
+    font-weight: 400;
+    letter-spacing: 20px;
+    font-size: 60px;
+}
